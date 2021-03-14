@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  LabTest1
 //
-//  Created by Vladislav Chernyi on 09.02.2021.
+//  Created by Marina Savochkina on 09.02.2021.
 //
 
 import UIKit
